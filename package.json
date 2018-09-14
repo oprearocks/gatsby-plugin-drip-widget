@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-plugin-drip-embed",
-  "description": "A Gatsby.js plugin that provides the drip script you can embed in any Gatsby.js website.",
+  "name": "gatsby-plugin-drip-widget",
+  "description": "⚛️ 📥 ➡️ A Gatsby.js plugin that provides the Drip widget script for you to use in any Gatsby.js website.",
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [
