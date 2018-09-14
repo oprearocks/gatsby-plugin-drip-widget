@@ -1,4 +1,4 @@
-# gatsby-plugin-drip
+# gatsby-plugin-drip-embed
 
 Allows you to embed the [Drip](https://getdrip.com) form JavaScript code into every page of a Gatsby.js website.
 
