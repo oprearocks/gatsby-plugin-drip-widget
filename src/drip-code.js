@@ -19,6 +19,7 @@ function createScriptMarkup(account) {
 }
 const DripCode = ({ account }) => (
   <script
+    key={`gatsby-plugin-drip-widget`}
     type="text/javascript"
     dangerouslySetInnerHTML={createScriptMarkup(account)}
   />
